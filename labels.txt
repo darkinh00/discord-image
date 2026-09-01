@@ -1,0 +1,4 @@
+0 pombo
+1 pardais
+2 urubu
+3 papagaio
